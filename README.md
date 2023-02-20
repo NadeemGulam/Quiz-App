@@ -30,11 +30,6 @@ Demo
 quiz-app-nadeem-gulam.netlify.app
 ```
 
-##Check out my portfolio
-```bash
-https://nadeem-gulam-portfolio.netlify.app/
-```
-
 ## Installation
 
 Install my-project with yarn
@@ -44,6 +39,13 @@ yarn
 yarn start
 ```
     
+    
+Check out my portfolio
+```bash
+https://nadeem-gulam-portfolio.netlify.app/
+```
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
