@@ -29,6 +29,12 @@ Demo
 ```bash
 quiz-app-nadeem-gulam.netlify.app
 ```
+
+##Check out my portfolio
+```bash
+https://nadeem-gulam-portfolio.netlify.app/
+```
+
 ## Installation
 
 Install my-project with yarn
