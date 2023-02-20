@@ -1,3 +1,43 @@
+
+# Quiz App using React.js library
+
+
+
+
+
+
+## Description
+
+
+
+```bash
+  1.The quiz app is a web application built using the React.js library.
+```
+```bash
+  2.The user interface is designed using the Tailwind CSS framework, providing a modern and responsive design.
+```
+```bash
+  3.The app includes a login and signup feature, with user data stored locally in the browser's storage using Local Storage.
+```
+```bash
+  4.Users can take quizzes on various topics, with their progress and scores tracked and displayed on the app.
+```
+
+## Deployement
+
+Demo
+```bash
+quiz-app-nadeem-gulam.netlify.app
+```
+## Installation
+
+Install my-project with yarn
+
+```bash
+yarn 
+yarn start
+```
+    
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
