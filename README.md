@@ -33,6 +33,7 @@ quiz-app-nadeem-gulam.netlify.app
 
 
 ![Screenshot_20230225_132750](https://user-images.githubusercontent.com/68492875/221345968-66e5f6f0-3a3f-465f-9e64-5bd281ddcc79.png)
+![Screenshot_20230225_132459](https://user-images.githubusercontent.com/68492875/221346020-d543c607-b168-4553-a9c7-718c2ec32fa5.png)
 ![Screenshot_20230225_132802](https://user-images.githubusercontent.com/68492875/221345976-9b7c57fb-4e86-458a-a858-e9c66cbaad12.png)
 
 
